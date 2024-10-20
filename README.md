@@ -1,2 +1,2 @@
 # Roulette-Table-ASCII
-Cuz no one made 1
+Ascii art for an english style roulette game and a game i made
